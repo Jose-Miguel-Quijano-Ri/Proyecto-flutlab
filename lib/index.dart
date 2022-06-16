@@ -1,0 +1,36 @@
+// Export pages
+export 'home_page/home_page_widget.dart' show HomePageWidget;
+export 'registro/registro_widget.dart' show RegistroWidget;
+export 'registro_cliente/registro_cliente_widget.dart'
+    show RegistroClienteWidget;
+export 'inicio/inicio_widget.dart' show InicioWidget;
+export 'perfil/perfil_widget.dart' show PerfilWidget;
+export 'promociones/promociones_widget.dart' show PromocionesWidget;
+export 'empleados/empleados_widget.dart' show EmpleadosWidget;
+export 'articulos/articulos_widget.dart' show ArticulosWidget;
+export 'botanas/botanas_widget.dart' show BotanasWidget;
+export 'habanero/habanero_widget.dart' show HabaneroWidget;
+export 'limon/limon_widget.dart' show LimonWidget;
+export 'takis/takis_widget.dart' show TakisWidget;
+export 'flaming/flaming_widget.dart' show FlamingWidget;
+export 'dulceria/dulceria_widget.dart' show DulceriaWidget;
+export 'xtra_care/xtra_care_widget.dart' show XtraCareWidget;
+export 'mazapan/mazapan_widget.dart' show MazapanWidget;
+export 'halls/halls_widget.dart' show HallsWidget;
+export 'panditas/panditas_widget.dart' show PanditasWidget;
+export 'bebidas/bebidas_widget.dart' show BebidasWidget;
+export 'levite/levite_widget.dart' show LeviteWidget;
+export 'sprite/sprite_widget.dart' show SpriteWidget;
+export 'fanta/fanta_widget.dart' show FantaWidget;
+export 'coca/coca_widget.dart' show CocaWidget;
+export 'limpieza/limpieza_widget.dart' show LimpiezaWidget;
+export 'fibra/fibra_widget.dart' show FibraWidget;
+export 'salvo/salvo_widget.dart' show SalvoWidget;
+export 'foca/foca_widget.dart' show FocaWidget;
+export 'cloralex/cloralex_widget.dart' show CloralexWidget;
+export 'almacen/almacen_widget.dart' show AlmacenWidget;
+export 'carrito/carrito_widget.dart' show CarritoWidget;
+export 'metodo_de_pago/metodo_de_pago_widget.dart' show MetodoDePagoWidget;
+export 'pagado/pagado_widget.dart' show PagadoWidget;
+export 'conclusiones/conclusiones_widget.dart' show ConclusionesWidget;
+export 'datos/datos_widget.dart' show DatosWidget;
